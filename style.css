@@ -118,7 +118,16 @@ p{
 footer{
     padding-top: 40px;
     color: gray;
+    
 }
 .bottom-sec{
     height: 200px;
+}
+#icon{
+    width: 25px;
+    height: 25px;
+}
+.card-footer{
+    border-top: none;
+    background: white;
 }
