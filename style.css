@@ -1,0 +1,124 @@
+.container{
+    padding-bottom: 100px;
+}
+.navbar-brand img{
+    height: 50px;
+    width: 150px;
+}
+.padding{
+    padding-left: 30px;
+    color: black;
+    font-weight: 600;
+}
+
+.btn{
+    border-radius: 30px;
+}
+span{
+    color: cyan;
+}
+h1{
+    font-weight: 700;
+    font-size: 55px;
+    padding-bottom: 20px;
+}
+h5{
+    color: red;
+    padding-bottom: 20px;
+}
+.col-md-5 h6{
+    color: gray;
+    padding-bottom: 20px;
+    
+}
+.col-md-7 img{
+    width: 600px;
+    height: 400px;
+}
+.col-md-3 img{
+    width: 100px;
+    height: 100px;  
+}
+h4{
+    padding-top: 20px;
+}
+.col{  
+    text-align: center;
+}   
+.card img{
+    width: 100px;
+    height: 100px;  
+}
+.card-body p h5{
+    align-items: center;
+}
+h3{
+    color: black;
+    font-weight: 700;
+    font-size: 25px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#modern{
+    width:auto;
+    height: auto;
+}
+.card-text{
+    text-align: left;
+
+}
+.card-title{
+    text-align: left;
+}
+.card-body button{
+    text-align: left;
+}
+h2{
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+#man{
+    width: 120px;
+    height: 100px;
+    padding-right: 10px;
+}
+.testimonial{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 200px;
+    width: 400px;
+}
+.image{
+    align-items: end;
+}
+.col-md-4 p{
+    padding-left:30px;
+}
+h6{
+    font-weight: 700;
+    color: white;
+    padding-top: 20px;
+    padding-right: 40px;
+}
+.bottom-section{
+    background-color: blue;
+}
+p{
+    color: gray;
+}
+.col-md-6 p{
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-right: 40px;
+}
+footer{
+    padding-top: 40px;
+    color: gray;
+}
+.bottom-sec{
+    height: 200px;
+}
